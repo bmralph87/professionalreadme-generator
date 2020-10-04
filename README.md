@@ -7,7 +7,7 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 -ES6+ Concepts
 -Inquirer.js
 
-<img src = "images/PetPurrfect copy.jpg"> 
+<img src = "Develop/images/Screen Shot 2020-10-04 at 4.31.01 PM copy.jpg"> 
 
 
 ## Objective

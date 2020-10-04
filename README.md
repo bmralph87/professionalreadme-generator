@@ -4,6 +4,7 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 ## Tools used for this project
 - JavaScript
 - Node.js
+-ES6+ Concepts
 -Inquirer.js
 
 <img src = "images/PetPurrfect copy.jpg"> 

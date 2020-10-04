@@ -37,7 +37,7 @@ ${data.license}
 ${data.contributing}
 
 ## Tests
-${data.test}
+${data.tests}
 
  ## Questions
  ${data.questions}

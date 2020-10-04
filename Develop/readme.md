@@ -1,7 +1,7 @@
 
-    # README-Generator
+    # README GENERATOR
 
-    ![license](https://img.shields.io/badge/License%3A-BSD-blue.svg)
+    ![license](https://img.shields.io/badge/License%3A-MIT-blue.svg)
     ![Github] (https://github.com/bmralph87-https://github.com/bmralph87)
     [Contact] <brittney.mr22@gmail.com>
   
@@ -21,13 +21,13 @@
 install node/inquirer
 
 ## Usage 
-create an app.js file, generate Markdown file and eventually generate README.md
+create app.js file, generate Markdown file, generate README.md
 
 ## Credits
-https://shields.io/; https://www.npmjs.com/package/inquirer#installation
+https://www.npmjs.com/package/inquirer#installation; https://stackabuse.com/writing-to-files-in-node-js/
 
 ## License
-BSD
+MIT
 
 ## Contributing
 YES

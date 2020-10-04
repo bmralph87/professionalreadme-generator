@@ -20,7 +20,7 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 ## Description/Usage: 
 README-Generator is a professional README file run via the command line in the Terminal App
 
-### The screen recording file can be found here [Here]<iframe src="https://drive.google.com/file/d/16Lfkn2wr2l2usqA4B6OPPBZIJShgt10Q/preview" width="640" height="480"></iframe>
+### The screen recording file can be found here: <iframe src="https://drive.google.com/file/d/16Lfkn2wr2l2usqA4B6OPPBZIJShgt10Q/preview" width="640" height="480"></iframe>
 
 #### My repo can be found [Here](https://github.com/bmralph87/cats.git)
 

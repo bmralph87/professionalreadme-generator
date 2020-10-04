@@ -1,8 +1,8 @@
 
-    # hfhdbhdb
+    # README-Generator
 
-    ![license](https://img.shields.io/badge/License%3A-Apache 2-blue.svg)
-    ![Github] (https://github.com/bmralph87-djdjdj)
+    ![license](https://img.shields.io/badge/License%3A-BSD-blue.svg)
+    ![Github] (https://github.com/bmralph87-https://github.com/bmralph87)
     [Contact] <brittney.mr22@gmail.com>
   
   ## Table of Contents(Optional)
@@ -18,25 +18,25 @@
 
 
 ## Installation
-hnbdhdhbdh
+install node/inquirer
 
 ## Usage 
-hdhdhbdhb
+create an app.js file, generate Markdown file and eventually generate README.md
 
 ## Credits
-hehbehbehbe
+https://shields.io/; https://www.npmjs.com/package/inquirer#installation
 
 ## License
-Apache 2
+BSD
 
 ## Contributing
-yes
+YES
 
 ## Tests
 undefined
 
  ## Questions
- djdjdj
+ https://github.com/bmralph87
 
  ## Contact
- <brittney.mr22@gmail.com>
+ brittney.mr22@gmail.com

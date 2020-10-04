@@ -1,3 +1,5 @@
+const { getMaxListeners } = require("process")
+
 // function to generate markdown for README
 function generateMarkdown(data) {
     return `
@@ -41,7 +43,7 @@ ${data.test}
  ${data.questions}
 
  ## Contact
- <${data.contact}>
+ ${data.contact}
 `
 ;
 }

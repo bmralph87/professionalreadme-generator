@@ -38,12 +38,12 @@ inquirer.prompt([
     {
         type: 'input',
         name: 'contributing',
-        message: 'If you would like to contribute to this project please enter yes here',
+        message: 'If you would like to contribute to this project please enter YES here',
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'If you would like to add testing please enter yes here',
+        message: 'If you would like to add testing please enter YES here',
     },
     {
         type: 'input',

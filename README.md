@@ -17,7 +17,8 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 
 
 ## Description/Usage: 
-README-Generator is a professional README file run via the command line in the Terminal App
+README-Generator is a dynamic command line application that generates a professional README.md file
+
 
 ### The screen recording file can be found here: <iframe src="https://drive.google.com/file/d/1mz8c5Ebje0QzckdLQGoqTgnjVLTQ5Hhq/preview" width="640" height="480"></iframe>
 
